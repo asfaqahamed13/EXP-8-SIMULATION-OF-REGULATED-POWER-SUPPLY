@@ -36,6 +36,7 @@ Observation
 
 
 
+
 1. AC Input Waveform
 The AC input waveform is observed in LTspice before applying it to the transformer.
 2. Transformer Output
@@ -48,6 +49,7 @@ The smoothing capacitor is connected across the rectifier output. The capacitor 
 The Zener diode regulator and load are connected. A stable regulated DC output is obtained at the load.
 ________________________________________
 Result
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-02 at 9 29 22 AM" src="https://github.com/user-attachments/assets/3e623dd3-c3a7-4a83-b1f6-03cef1dac677" />
 
 
 Thus, the regulated power supply was simulated using LTspice. The output waveform at each stage was observed and analysed, and a stable regulated DC output was obtained at the load. 
