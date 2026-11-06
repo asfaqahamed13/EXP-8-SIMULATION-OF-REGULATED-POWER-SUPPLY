@@ -32,10 +32,7 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
-
-
-
-
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-02 at 9 29 22 AM" src="https://github.com/user-attachments/assets/4190898a-0380-46b9-8151-33b2c49017c3" />
 1. AC Input Waveform
 The AC input waveform is observed in LTspice before applying it to the transformer.
 2. Transformer Output
