@@ -34,6 +34,7 @@ ________________________________________
 Observation
 
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-02 at 9 29 22 AM (1)" src="https://github.com/user-attachments/assets/a655b528-43c1-4de9-b00d-ca72508399c0" />
 
 
 1. AC Input Waveform
